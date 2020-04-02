@@ -1,0 +1,97 @@
+5872          Connor          0706475225          Brasov, street: Eroilor, nr: 45
+4392          Harry          0748059053          Oradea, street: Iunie, nr: 28
+8361          Oliver          0774122960          Bucuresti, street: Ion Popa, nr: 8
+1753          Olivia          0753134627          Cluj, street: Dacia, nr: 64
+2225          Bethany          0784505720          Brasov, street: Libertatii, nr: 54
+4752          Elizabeth          0795172840          Brasov, street: Ion Popa, nr: 80
+1559          Callum          0744591356          Cluj, street: Zorilor, nr: 107
+1048          Sophia          0767596903          Oradea, street: Libertatii, nr: 137
+9933          Isabella          0788424204          Cluj, street: Dacia, nr: 35
+3962          Mary          0796868627          Arad, street: Iunie, nr: 16
+8809          Olivia          0763130047          Brad, street: Zorilor, nr: 33
+2386          Bethany          0724623139          Iasi, street: Libertatii, nr: 56
+6557          James          0750098436          Bucuresti, street: Dacia, nr: 68
+1064          Jennifer          0778583205          Oradea, street: Observatorului, nr: 37
+3131          Callum          0792487367          Cluj, street: Libertatii, nr: 7
+9936          Liam          0704969940          Brasov, street: Zorilor, nr: 96
+8449          Noah          0735345308          Brasov, street: Iunie, nr: 69
+6836          John          0720245910          Cluj, street: Zorilor, nr: 79
+3930          Olivia          0755094807          Arad, street: Eroilor, nr: 15
+5209          Robert          0732953506          Sibiu, street: Iunie, nr: 60
+8755          Isabella          0710629465          Oradea, street: Dacia, nr: 13
+4113          Jake          0770172829          Brad, street: Dorobanti, nr: 129
+4175          Emma          0725951963          Iasi, street: Libertatii, nr: 113
+6953          Isabella          0718275788          Alba Iulia, street: Libertatii, nr: 110
+1698          Sophia          0736098395          Brad, street: Eroilor, nr: 90
+1020          Mary          0734661716          Oradea, street: Zorilor, nr: 61
+9321          Harry          0751990171          Brad, street: Observatorului, nr: 122
+9362          Emily          0773234075          Sibiu, street: Iunie, nr: 143
+6490          Isla          0741997701          Deva, street: Dorobanti, nr: 51
+4985          Olivia          0703600706          Bucuresti, street: Iunie, nr: 135
+5554          Jake          0718783181          Brasov, street: Dacia, nr: 65
+5269          Elizabeth          0776577350          Constanta, street: Dorobanti, nr: 23
+8075          Jennifer          0791446689          Iasi, street: Libertatii, nr: 82
+4683          Patricia          0787052993          Cluj, street: Libertatii, nr: 119
+1612          Olivia          0738920650          Oradea, street: Observatorului, nr: 39
+7539          Jake          0706323665          Brasov, street: Zorilor, nr: 64
+4830          Olivia          0777247714          Alba Iulia, street: Libertatii, nr: 32
+8848          Emily          0741777955          Oradea, street: Dacia, nr: 13
+8315          Elizabeth          0734364624          Iasi, street: Eroilor, nr: 93
+8938          Jennifer          0796923816          Cluj, street: Zorilor, nr: 117
+2002          Jack          0755635386          Iasi, street: Iunie, nr: 30
+3460          Connor          0757203260          Arad, street: Zorilor, nr: 143
+4491          Liam          0711021117          Iasi, street: Dacia, nr: 7
+8400          Oliver          0705136185          Arad, street: Eroilor, nr: 90
+2959          Elizabeth          0738675213          Brad, street: Dacia, nr: 124
+5435          Samantha          0749798551          Cluj, street: Libertatii, nr: 105
+5287          Olivia          0740174769          Sibiu, street: Zorilor, nr: 23
+1155          Liam          0782632737          Brasov, street: Zorilor, nr: 108
+6699          Amelia          0760814404          Alba Iulia, street: Dorobanti, nr: 44
+9879          Callum          0702328680          Sibiu, street: Zorilor, nr: 45
+5805          Robert          0786651760          Brasov, street: Iunie, nr: 148
+6782          Jack          0769130917          Oradea, street: Observatorului, nr: 150
+9634          Bethany          0737695131          Deva, street: Libertatii, nr: 26
+7285          Noah          0744287615          Iasi, street: Observatorului, nr: 8
+8819          Harry          0737456103          Cluj, street: Ion Popa, nr: 41
+6391          Harry          0741929057          Deva, street: Libertatii, nr: 54
+7376          Emily          0759127183          Sibiu, street: Ion Popa, nr: 132
+3637          Olivia          0776351353          Bucuresti, street: Eroilor, nr: 81
+1366          James          0733216980          Alba Iulia, street: Zorilor, nr: 38
+6587          Jennifer          0799436704          Arad, street: Iunie, nr: 108
+2541          Isabella          0762940549          Bucuresti, street: Ion Popa, nr: 82
+6069          Elizabeth          0743773701          Arad, street: Zorilor, nr: 3
+8785          Emily          0796173968          Brasov, street: Iunie, nr: 10
+6737          Samantha          0778171444          Arad, street: Zorilor, nr: 114
+2957          Noah          0786183648          Brad, street: Dorobanti, nr: 14
+3829          John          0766655296          Arad, street: Dacia, nr: 133
+9386          Emily          0713360053          Oradea, street: Dorobanti, nr: 124
+5696          Mason          0741039740          Brad, street: Ion Popa, nr: 23
+5549          Noah          0765067037          Brasov, street: Dorobanti, nr: 76
+3353          Bethany          0781070907          Bucuresti, street: Dorobanti, nr: 87
+4676          Emily          0775684382          Bucuresti, street: Dorobanti, nr: 10
+7156          Mason          0781470599          Alba Iulia, street: Zorilor, nr: 39
+1329          Emily          0789230263          Cluj, street: Dacia, nr: 37
+8047          Liam          0707878571          Constanta, street: Ion Popa, nr: 29
+3463          Olivia          0773489418          Constanta, street: Eroilor, nr: 30
+6980          Isabella          0730567615          Sibiu, street: Dorobanti, nr: 147
+4530          Jake          0729069275          Brasov, street: Ion Popa, nr: 70
+7559          Harry          0784349330          Cluj, street: Zorilor, nr: 83
+6394          Emma          0721225725          Brad, street: Iunie, nr: 6
+5393          Patricia          0712041841          Brasov, street: Libertatii, nr: 77
+9743          Oliver          0742322711          Alba Iulia, street: Ion Popa, nr: 97
+3286          Olivia          0752419696          Alba Iulia, street: Eroilor, nr: 83
+3710          Sophia          0739153326          Deva, street: Zorilor, nr: 15
+8135          Callum          0739906329          Bucuresti, street: Zorilor, nr: 145
+8846          Bethany          0741935412          Brad, street: Iunie, nr: 67
+2759          Mason          0703445201          Constanta, street: Libertatii, nr: 25
+9451          Callum          0757705372          Oradea, street: Iunie, nr: 49
+7985          Elizabeth          0762230480          Brasov, street: Dacia, nr: 62
+7795          Jack          0787565225          Sibiu, street: Dorobanti, nr: 99
+6469          Oliver          0714996322          Oradea, street: Libertatii, nr: 112
+5698          Isla          0772641253          Oradea, street: Zorilor, nr: 117
+8910          Jack          0773320557          Deva, street: Dacia, nr: 83
+8267          James          0775827898          Brasov, street: Iunie, nr: 107
+9277          Margaret          0725127551          Arad, street: Observatorului, nr: 1
+2423          Isla          0778311822          Brad, street: Libertatii, nr: 118
+1882          Patricia          0752657425          Oradea, street: Dacia, nr: 15
+5864          Mary          0742810192          Sibiu, street: Dorobanti, nr: 108
